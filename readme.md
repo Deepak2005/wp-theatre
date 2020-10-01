@@ -1,7 +1,7 @@
 #Theater for WordPress
 
 
-## Events vs. productions
+## Events vs productions
 
 Theater for WordPress uses _productions_ to group your _events_. Each production can have one or more events.
 
